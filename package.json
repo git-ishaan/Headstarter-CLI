@@ -1,0 +1,33 @@
+{
+  "name": "headstarter-cli", 
+  "version": "1.0.0",
+  "description": "A CLI tool to Headstart client and server projects with various configurations.",
+  "main": "index.js",
+  "bin": {
+    "headstarter": "./index.js" 
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cli",
+    "project-generator",
+    "client",
+    "server",
+    "express",
+    "vite",
+    "fastapi",
+    "prisma",
+    "sequelize",
+    "sqlalchemy",
+    "tortoise-orm"
+  ],
+  "author": "Ishaan Pandey <mailtoishaan@proton.me>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cli-progress": "^3.9.1",
+    "inquirer": "^8.2.4"
+  }
+ 
+}
