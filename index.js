@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-
 import inquirer from 'inquirer';
 import { execSync } from 'child_process';
 import fs from 'fs';
@@ -9,7 +8,7 @@ import path from 'path';
 import ora from 'ora';
 
 const welcomeNote = () => {
-  console.log(chalk.green('\nWelcome to the most modern headstarter tool,'));
+  console.log(chalk.green('\nWelcome to the  modern headstarter tool,'));
   console.log(chalk.green('Developed with ♡ by github.com/git-ishaan\n'));
 };
 

@@ -108,7 +108,7 @@ bunx headstarter-cli
 
 1. **Run the CLI Tool**
    ```bash
-   headstarter
+   headstarter-cli
    ```
 
 2. **Follow the Interactive Prompts**
@@ -140,7 +140,7 @@ bunx headstarter-cli
 
 1. **Run the CLI Tool**
    ```bash
-   headstarter
+   headstarter-cli
    ```
 
 2. **Follow the Interactive Prompts**
