@@ -25,6 +25,11 @@
   ],
   "author": "Ishaan Pandey <mailtoishaan@proton.me>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/git-ishaan/Headstarter-CLI"
+  },
+  "homepage": "https://headstarter-cli.vercel.app/",
   "dependencies": {
     "chalk": "^4.1.2",
     "cli-progress": "^3.9.1",
